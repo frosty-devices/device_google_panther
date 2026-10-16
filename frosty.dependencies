@@ -2,6 +2,6 @@
   {
     "repository": "frosty-aosp/device_google_pantah",
     "target_path": "device/google/pantah",
-    "revision": "ananas"
+    "branch": "ananas"
   }
 ]
